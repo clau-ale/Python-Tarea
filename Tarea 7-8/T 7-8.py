@@ -4,7 +4,6 @@ datos = dict(zip(codigos, nombresPrecios))
 pedido = [] 
 print("---Bienvenido---")
 cods = list(datos.keys())
-print(cods)
 codigo = -2
 while(codigo!=-1):
     print("Lista de códigos disponibles para agregar:")
